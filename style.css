@@ -3,13 +3,13 @@ body {
 }
 /*Colors*/
 #red {
-  color: #FF0000;
+  background-color: #FF0000;
 }
 #blue {
-  color: #0076FF;
+  background-color: #0076FF;
 }
 #green {
-  color: #6CFF00;
+  background-color: #6CFF00;
 }
 /*End Colors*/
 .main{
