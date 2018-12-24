@@ -4,12 +4,15 @@ margin: 0px;
 /*Colors*/
 #red {
   background-color: #FF0000;
+  border: 1px solid #000000;
 }
 #blue {
   background-color: #0076FF;
+  border: 1px solid #000000;
 }
 #green {
   background-color: #6CFF00;
+  border: 1px solid #000000;
 }
 /*End Colors*/
 .main {
