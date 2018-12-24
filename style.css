@@ -1,6 +1,17 @@
 body {
 
 }
+/*Colors*/
+#red {
+  color: #FF0000;
+}
+#blue {
+  color: #0076FF;
+}
+#green {
+  color: #6CFF00;
+}
+/*End Colors*/
 .main{
   width: 375px;
   height: 667px;
